@@ -1,3 +1,5 @@
+package com.uas.project.SWEAD;
+
 public class Main {
     public static void main(String[] args) {
         WebsiteMonitor monitor = new WebsiteMonitor();

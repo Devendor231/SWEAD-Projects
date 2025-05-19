@@ -1,3 +1,5 @@
+package com.uas.project.SWEAD;
+
 class Notification {
     private String message;
 

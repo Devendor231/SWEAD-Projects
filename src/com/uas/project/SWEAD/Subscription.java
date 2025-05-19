@@ -1,3 +1,5 @@
+package com.uas.project.SWEAD;
+
 class Subscription {
     String url;
     CommunicationChannel channel;
